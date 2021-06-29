@@ -4,7 +4,7 @@ const AboutPage = () => (
     <>
         <h1>About Page</h1>
         <p>
-            Hello.
+            This is my about page.
         </p>
     </>
 );
